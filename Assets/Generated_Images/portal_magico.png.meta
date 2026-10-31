@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 727e078d1de7fb243aa61fc7d6abb344
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4438583114821698340
+    second: portal_magico_0
+  - first:
+      213: -5953483983426636988
+    second: portal_magico_1
+  - first:
+      213: 3197698425238921950
+    second: portal_magico_2
+  - first:
+      213: 9207784342216427557
+    second: portal_magico_3
+  - first:
+      213: -323297087842483702
+    second: portal_magico_4
+  - first:
+      213: 8126441846317327990
+    second: portal_magico_5
+  - first:
+      213: -7705704285416485842
+    second: portal_magico_6
+  - first:
+      213: -891667690571246223
+    second: portal_magico_7
+  - first:
+      213: 2631917116656771116
+    second: portal_magico_8
+  - first:
+      213: 8272574003339749429
+    second: portal_magico_9
+  - first:
+      213: 3353032495259274854
+    second: portal_magico_10
+  - first:
+      213: 9190234390242269548
+    second: portal_magico_11
+  - first:
+      213: 735498813226210956
+    second: portal_magico_12
+  - first:
+      213: -8263006546459496283
+    second: portal_magico_13
+  - first:
+      213: -8748326868100314334
+    second: portal_magico_14
+  - first:
+      213: 5731216403295239618
+    second: portal_magico_15
+  - first:
+      213: -2441735357679450873
+    second: portal_magico_16
+  - first:
+      213: 6513519627301511023
+    second: portal_magico_17
+  - first:
+      213: 1713440542878326370
+    second: portal_magico_18
+  - first:
+      213: 2104592879674208677
+    second: portal_magico_19
+  - first:
+      213: -4876790858981000599
+    second: portal_magico_20
+  - first:
+      213: -5050439058593819056
+    second: portal_magico_21
+  - first:
+      213: -4495412589717172705
+    second: portal_magico_22
+  - first:
+      213: 9078279044076502210
+    second: portal_magico_23
+  - first:
+      213: 4024092762540290755
+    second: portal_magico_24
+  - first:
+      213: -19788190276647586
+    second: portal_magico_25
+  - first:
+      213: -4249190950206839288
+    second: portal_magico_26
+  - first:
+      213: -5453844287819029111
+    second: portal_magico_27
+  - first:
+      213: -4429278939514521209
+    second: portal_magico_28
+  - first:
+      213: 2572128968599059187
+    second: portal_magico_29
+  - first:
+      213: -5617593855307924127
+    second: portal_magico_30
+  - first:
+      213: 4788584932729233742
+    second: portal_magico_31
+  - first:
+      213: 8051175267489323959
+    second: portal_magico_32
+  - first:
+      213: -2763346724311338815
+    second: portal_magico_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal_magico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1513
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc71077c2cf662c0800000000000000
+      internalID: -4438583114821698340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 887
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b0e72cd9f06da0800000000000000
+      internalID: -5953483983426636988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 847
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2213f86c1806c20800000000000000
+      internalID: 3197698425238921950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 843
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c636031f98cf70800000000000000
+      internalID: 9207784342216427557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 811
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020b32f20b638bf0800000000000000
+      internalID: -323297087842483702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 814
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6762d91bdcbe6c070800000000000000
+      internalID: 8126441846317327990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_6
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 798
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c8b8b67c6df0590800000000000000
+      internalID: -7705704285416485842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 774
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175decda5f820a3f0800000000000000
+      internalID: -891667690571246223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e8905ca2768420800000000000000
+      internalID: 2631917116656771116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 703
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538623fd9361ec270800000000000000
+      internalID: 8272574003339749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 661
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e45401a4d588e20800000000000000
+      internalID: 3353032495259274854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 679
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6918f86c754a8f70800000000000000
+      internalID: 9190234390242269548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_12
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 677
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d1171644053a00800000000000000
+      internalID: 735498813226210956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 637
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fd854357e35d80800000000000000
+      internalID: -8263006546459496283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 655
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b00e76013b79680800000000000000
+      internalID: -8748326868100314334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 623
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdfd4914fe598f40800000000000000
+      internalID: 5731216403295239618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_16
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 599
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705410a01a63d1ed0800000000000000
+      internalID: -2441735357679450873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_17
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 566
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f57d6479ba46a50800000000000000
+      internalID: 6513519627301511023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed306781d57c710800000000000000
+      internalID: 1713440542878326370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 439
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a13ccdc214053d10800000000000000
+      internalID: 2104592879674208677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 499
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab0965d88225cb0800000000000000
+      internalID: -4876790858981000599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_21
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 487
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d1c04f6c39e9b0800000000000000
+      internalID: -5050439058593819056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 413
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ec61f31161d91c0800000000000000
+      internalID: -4495412589717172705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_23
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 445
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7d0a11b68cfd70800000000000000
+      internalID: 9078279044076502210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_24
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 416
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23f660c0378d730800000000000000
+      internalID: 4024092762540290755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 305
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5500dbeeb2b9bff0800000000000000
+      internalID: -19788190276647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_26
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 367
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ed1e0857d705c0800000000000000
+      internalID: -4249190950206839288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e044148d0054b0800000000000000
+      internalID: -5453844287819029111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_28
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 303
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893e17954a0882c0800000000000000
+      internalID: -4429278939514521209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_29
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 295
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab6d15ba902b320800000000000000
+      internalID: 2572128968599059187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_30
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 241
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d34f1e62c4a02b0800000000000000
+      internalID: -5617593855307924127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 183
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e412d1410a8747240800000000000000
+      internalID: 4788584932729233742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_32
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 214
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9c13bf358bbf60800000000000000
+      internalID: 8051175267489323959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_magico_33
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 182
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0fe2a8bce96a9d0800000000000000
+      internalID: -2763346724311338815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portal_magico_0: -4438583114821698340
+      portal_magico_1: -5953483983426636988
+      portal_magico_10: 3353032495259274854
+      portal_magico_11: 9190234390242269548
+      portal_magico_12: 735498813226210956
+      portal_magico_13: -8263006546459496283
+      portal_magico_14: -8748326868100314334
+      portal_magico_15: 5731216403295239618
+      portal_magico_16: -2441735357679450873
+      portal_magico_17: 6513519627301511023
+      portal_magico_18: 1713440542878326370
+      portal_magico_19: 2104592879674208677
+      portal_magico_2: 3197698425238921950
+      portal_magico_20: -4876790858981000599
+      portal_magico_21: -5050439058593819056
+      portal_magico_22: -4495412589717172705
+      portal_magico_23: 9078279044076502210
+      portal_magico_24: 4024092762540290755
+      portal_magico_25: -19788190276647586
+      portal_magico_26: -4249190950206839288
+      portal_magico_27: -5453844287819029111
+      portal_magico_28: -4429278939514521209
+      portal_magico_29: 2572128968599059187
+      portal_magico_3: 9207784342216427557
+      portal_magico_30: -5617593855307924127
+      portal_magico_31: 4788584932729233742
+      portal_magico_32: 8051175267489323959
+      portal_magico_33: -2763346724311338815
+      portal_magico_4: -323297087842483702
+      portal_magico_5: 8126441846317327990
+      portal_magico_6: -7705704285416485842
+      portal_magico_7: -891667690571246223
+      portal_magico_8: 2631917116656771116
+      portal_magico_9: 8272574003339749429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

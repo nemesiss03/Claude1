@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: d0fb48906a858f34eb3fc9cca5b0d786
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7411774544843082913
+    second: _dbg_frames_0
+  - first:
+      213: -4382280166180875476
+    second: _dbg_frames_1
+  - first:
+      213: -2920414953279592286
+    second: _dbg_frames_2
+  - first:
+      213: -5581093150829868574
+    second: _dbg_frames_3
+  - first:
+      213: -2256092083638792276
+    second: _dbg_frames_4
+  - first:
+      213: 6856948669791817832
+    second: _dbg_frames_5
+  - first:
+      213: -2263257948132428153
+    second: _dbg_frames_6
+  - first:
+      213: 2318161235952911505
+    second: _dbg_frames_7
+  - first:
+      213: -2688140161861316852
+    second: _dbg_frames_8
+  - first:
+      213: 5595746689636078185
+    second: _dbg_frames_9
+  - first:
+      213: 2779544502063537136
+    second: _dbg_frames_10
+  - first:
+      213: -4725281178450841979
+    second: _dbg_frames_11
+  - first:
+      213: -3394130819892149617
+    second: _dbg_frames_12
+  - first:
+      213: -821943605491785941
+    second: _dbg_frames_13
+  - first:
+      213: 3838231810261821937
+    second: _dbg_frames_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _dbg_frames_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 247
+        width: 230
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53785b1256142990800000000000000
+      internalID: -7411774544843082913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 259
+        width: 228
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239c8c38630f23c0800000000000000
+      internalID: -4382280166180875476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 257
+        width: 220
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e701b21a9877d0800000000000000
+      internalID: -2920414953279592286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 247
+        width: 230
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98b666959fb82b0800000000000000
+      internalID: -5581093150829868574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 215
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf83260430c0b0e0800000000000000
+      internalID: -2256092083638792276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860570a4c76c82f50800000000000000
+      internalID: 6856948669791817832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786bc7e23ea4790e0800000000000000
+      internalID: -2263257948132428153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194cd09ac53cb2020800000000000000
+      internalID: 2318161235952911505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 55
+        width: 318
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f8bc1e3cec1bad0800000000000000
+      internalID: -2688140161861316852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 95
+        width: 242
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96293d877f518ad40800000000000000
+      internalID: 5595746689636078185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 97
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb13ea7ffce29620800000000000000
+      internalID: 2779544502063537136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 127
+        width: 216
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2996cdcd6c6eb0800000000000000
+      internalID: -4725281178450841979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_12
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828f1f8000a5e0d0800000000000000
+      internalID: -3394130819892149617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 55
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f124945aed794f0800000000000000
+      internalID: -821943605491785941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _dbg_frames_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 55
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a240ee73244530800000000000000
+      internalID: 3838231810261821937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _dbg_frames_0: -7411774544843082913
+      _dbg_frames_1: -4382280166180875476
+      _dbg_frames_10: 2779544502063537136
+      _dbg_frames_11: -4725281178450841979
+      _dbg_frames_12: -3394130819892149617
+      _dbg_frames_13: -821943605491785941
+      _dbg_frames_14: 3838231810261821937
+      _dbg_frames_2: -2920414953279592286
+      _dbg_frames_3: -5581093150829868574
+      _dbg_frames_4: -2256092083638792276
+      _dbg_frames_5: 6856948669791817832
+      _dbg_frames_6: -2263257948132428153
+      _dbg_frames_7: 2318161235952911505
+      _dbg_frames_8: -2688140161861316852
+      _dbg_frames_9: 5595746689636078185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
