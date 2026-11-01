@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a4241f7702bf4944b4a6cf963a2d8b3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Demo Scene/FreeFly Camera Demo.unity
+  uploadId: 975608

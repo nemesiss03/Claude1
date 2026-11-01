@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c413fd0e738cfc44f87feac9ec0a2594, type: 3}
+  m_Name: FolderAppearanceDatabase
+  m_EditorClassIdentifier: SakanfarProductions.FolderOrganizer.Editor::SakanfarProductions.FolderOrganizer.FolderAppearanceDatabase
+  entries:
+  - guid: 247b4a8c214a8954b8407128e4612128
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer/Editor
+    hasColor: 1
+    color: {r: 0.6, g: 0.3, b: 0.9, a: 1}
+    icon: 2
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 5889bece35213e9409322a2598aaf331
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer/Editor/Settings
+    hasColor: 1
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    icon: 9
+    isFavorite: 0
+    cameFromAutomaticRule: 1
+  - guid: fd3d06683b604964ebd7036f7fc1c58b
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer/Documentation
+    hasColor: 1
+    color: {r: 0.25, g: 0.5, b: 1, a: 1}
+    icon: 15
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 5b15595a03995d846bb748457c068998
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer/Samples
+    hasColor: 1
+    color: {r: 1, g: 0.35, b: 0.65, a: 1}
+    icon: 0
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: b64ca8bc19bc8654d8f1796fe1955d8c
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer
+    hasColor: 1
+    color: {r: 0.32, g: 0.76, b: 0.77, a: 1}
+    icon: 0
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: b624a4ee581f6024fb7b47cce1d0ecff
+    lastKnownPath: Assets/Sakanfar Productions/Folder Organizer/Scenes
+    hasColor: 1
+    color: {r: 0.94, g: 0.4, b: 0.42, a: 1}
+    icon: 8
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 21f269ef129b8af48b74a5584c10efb8
+    lastKnownPath: Assets/_Project/Art
+    hasColor: 1
+    color: {r: 0.94, g: 0.4, b: 0.42, a: 1}
+    icon: 3
+    isFavorite: 1
+    cameFromAutomaticRule: 0
+  - guid: e4873d3221b87ea46a4c090d58ae14e7
+    lastKnownPath: Assets/_Project/Audio
+    hasColor: 1
+    color: {r: 0.68, g: 0.85, b: 0.28, a: 1}
+    icon: 4
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 11f47b646cc808d4ba0478bc7b80b5b0
+    lastKnownPath: Assets/_Project/Prefabs
+    hasColor: 1
+    color: {r: 0.94, g: 0.79, b: 0.36, a: 1}
+    icon: 7
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 0cf6b813460b0374aa1cde3bdd60a8a2
+    lastKnownPath: Assets/_Project/Scenes
+    hasColor: 1
+    color: {r: 0.57, g: 0.91, b: 0.75, a: 1}
+    icon: 8
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 4cab5d225d8c4c4418f250f96f05173d
+    lastKnownPath: Assets/_Project/Scripts
+    hasColor: 1
+    color: {r: 1, g: 0.48, b: 0.36, a: 1}
+    icon: 1
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 36d0579f6ffd92f4f8e611b7c3f8bf9e
+    lastKnownPath: Assets/_Project/UI
+    hasColor: 1
+    color: {r: 0.10791205, g: 0.48248675, b: 0.9150943, a: 1}
+    icon: 12
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 5b29d112cca8f0f4b9761d7cd17aedd9
+    lastKnownPath: Assets/Dragon Warrior Files
+    hasColor: 1
+    color: {r: 0.94, g: 0.79, b: 0.36, a: 1}
+    icon: 14
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 55ce8f025eff12b4ab8495c49529d392
+    lastKnownPath: Assets/Script
+    hasColor: 1
+    color: {r: 0.68, g: 0.85, b: 0.28, a: 1}
+    icon: 1
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 38149348722ef914cb020fa7c77534c8
+    lastKnownPath: Assets/Animations
+    hasColor: 1
+    color: {r: 0.94, g: 0.4, b: 0.42, a: 1}
+    icon: 3
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 109e9bdd0fcc649c5bc59085c35bdc83
+    lastKnownPath: Assets/Scenes
+    hasColor: 1
+    color: {r: 0.91, g: 0.51, b: 0.72, a: 1}
+    icon: 8
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 23f8a74623572d04d9c9266b5ecbf191
+    lastKnownPath: Assets/Prefab
+    hasColor: 1
+    color: {r: 0.48, g: 0.49, b: 0.88, a: 1}
+    icon: 7
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 352b0fa6681931f4aa1a9b9ca08a1968
+    lastKnownPath: Assets/Generated_Images
+    hasColor: 1
+    color: {r: 1, g: 0.48, b: 0.36, a: 1}
+    icon: 6
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: 7d3fb6eb877db7140a56f813fb37be0c
+    lastKnownPath: Assets/Imagen
+    hasColor: 1
+    color: {r: 1, g: 0.48, b: 0.36, a: 1}
+    icon: 6
+    isFavorite: 0
+    cameFromAutomaticRule: 0
+  - guid: f00a49e83963afe43b8acb8fd79529b6
+    lastKnownPath: Assets/AdvancedCameraController
+    hasColor: 1
+    color: {r: 0.4, g: 0.77, b: 0.55, a: 1}
+    icon: 14
+    isFavorite: 0
+    cameFromAutomaticRule: 0

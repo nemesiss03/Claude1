@@ -40,14 +40,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fondo
+    uniqueID: 479100769
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 282131219
-    locked: 0
   - name: Gun
     uniqueID: 3529892427
+    locked: 0
+  - name: BackGround
+    uniqueID: 4226680691
+    locked: 0
+  - name: Player
+    uniqueID: 282131219
     locked: 0
   m_RenderingLayers:
   - Default

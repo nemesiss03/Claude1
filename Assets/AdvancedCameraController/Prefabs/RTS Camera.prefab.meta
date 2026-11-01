@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53f87599b5e0a1e4f9109ff40fe392de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Prefabs/RTS Camera.prefab
+  uploadId: 975608

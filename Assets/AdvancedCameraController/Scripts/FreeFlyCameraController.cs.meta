@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8033d58ac999d9e46af133b252d3cbb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Scripts/FreeFlyCameraController.cs
+  uploadId: 975608

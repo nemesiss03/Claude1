@@ -206,8 +206,11 @@ public class PlayerController : MonoBehaviour
 
         vel.x = h * velocidad;
 
-        if (pideSalto && enSuelo && !caidaLibre) vel.y = fuerzaSalto;
-        pideSalto = false;
+        if (pideSalto && enSuelo && !caidaLibre)
+        {
+            vel.y = fuerzaSalto;
+            AudioJuego.Tocar(SonidoId.Salto);
+        }
 
         if (caidaLibre)
         {

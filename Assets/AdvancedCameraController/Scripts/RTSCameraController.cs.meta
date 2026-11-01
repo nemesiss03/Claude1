@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a678d8119018c94c9ceeeace110ba9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Scripts/RTSCameraController.cs
+  uploadId: 975608

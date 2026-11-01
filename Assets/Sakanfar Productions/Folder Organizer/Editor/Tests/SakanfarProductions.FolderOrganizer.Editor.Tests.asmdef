@@ -1,0 +1,17 @@
+{
+  "name": "SakanfarProductions.FolderOrganizer.Editor.Tests",
+  "rootNamespace": "SakanfarProductions.FolderOrganizer.Tests",
+  "references": [
+    "SakanfarProductions.FolderOrganizer.Editor"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

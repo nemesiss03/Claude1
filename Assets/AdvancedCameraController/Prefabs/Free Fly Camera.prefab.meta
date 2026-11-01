@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f199553b49200444f94950858a2b97d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Prefabs/Free Fly Camera.prefab
+  uploadId: 975608

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e617f2cac92a984dbf68869492827d4, type: 3}
+  m_Name: BancoAudio
+  m_EditorClassIdentifier: Assembly-CSharp::BancoAudio
+  musicaPorEscena:
+  - escena: Boss
+    musica: {fileID: 8300000, guid: 79fbee92cb0d19e45b83a5b4eab9a591, type: 3}
+    volumen: 0.3
+  - escena: Nivel1
+    musica: {fileID: 8300000, guid: 79fbee92cb0d19e45b83a5b4eab9a591, type: 3}
+    volumen: 0.3
+  musicaBatalla: {fileID: 8300000, guid: 79e81dffac8c3584fb887257fb568d5f, type: 3}
+  volumenBatalla: 0.45
+  efectos:
+  - sonido: 0
+    clips:
+    - {fileID: 8300000, guid: 0499fa6964210aa46a054a1e2cda693f, type: 3}
+    volumen: 0.55
+    tonoMinimo: 0.94
+    tonoMaximo: 1.08
+  - sonido: 1
+    clips:
+    - {fileID: 8300000, guid: 043ea0ed862c50043b5f2feb2b045564, type: 3}
+    volumen: 0.75
+    tonoMinimo: 0.92
+    tonoMaximo: 1.06
+  - sonido: 2
+    clips:
+    - {fileID: 8300000, guid: f4efc9803384f054fb5fb598b4a7518c, type: 3}
+    volumen: 0.7
+    tonoMinimo: 0.96
+    tonoMaximo: 1.06
+  - sonido: 3
+    clips:
+    - {fileID: 8300000, guid: bea36c66c543839489212371e15a3ebc, type: 3}
+    volumen: 0.65
+    tonoMinimo: 0.92
+    tonoMaximo: 1.1
+  - sonido: 4
+    clips:
+    - {fileID: 8300000, guid: f1cd367f2ef8eda4581c06e74fdd43d1, type: 3}
+    volumen: 0.55
+    tonoMinimo: 0.9
+    tonoMaximo: 1.14
+  - sonido: 5
+    clips:
+    - {fileID: 8300000, guid: e8f0a0a4fe26c4a469bc6a499258fc8c, type: 3}
+    volumen: 0.8
+    tonoMinimo: 0.95
+    tonoMaximo: 1.05
+  - sonido: 6
+    clips:
+    - {fileID: 8300000, guid: 71105b14e589d134686dc929acd9aeb3, type: 3}
+    volumen: 0.65
+    tonoMinimo: 0.95
+    tonoMaximo: 1.08
+  - sonido: 7
+    clips:
+    - {fileID: 8300000, guid: 21d842ac10ced3f4a9e888750f2e3169, type: 3}
+    volumen: 0.7
+    tonoMinimo: 0.98
+    tonoMaximo: 1.06
+  - sonido: 8
+    clips:
+    - {fileID: 8300000, guid: d35100ed436b69e4c9c7b3d91a99bb81, type: 3}
+    volumen: 0.75
+    tonoMinimo: 0.9
+    tonoMaximo: 1.12
+  - sonido: 9
+    clips:
+    - {fileID: 8300000, guid: bb09049d10242744fa4695e401ad9d2e, type: 3}
+    volumen: 1
+    tonoMinimo: 0.98
+    tonoMaximo: 1.02
+  - sonido: 10
+    clips: []
+    volumen: 0.6
+    tonoMinimo: 0.97
+    tonoMaximo: 1.05
+  - sonido: 11
+    clips: []
+    volumen: 0.5
+    tonoMinimo: 0.95
+    tonoMaximo: 1.05
+  - sonido: 12
+    clips: []
+    volumen: 0.6
+    tonoMinimo: 1
+    tonoMaximo: 1
+  - sonido: 13
+    clips: []
+    volumen: 0.8
+    tonoMinimo: 1
+    tonoMaximo: 1

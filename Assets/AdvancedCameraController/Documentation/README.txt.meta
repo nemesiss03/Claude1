@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 703efc3ec15de9247b750604b7e56781
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 398304
+  packageName: Advanced Camera Controller System
+  packageVersion: 1.0
+  assetPath: Assets/AdvancedCameraController/Documentation/README.txt
+  uploadId: 975608

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07dac6ae3b7e610458a4f92e068c5820
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393756
+  packageName: Sakanfar Folder Organizer
+  packageVersion: 1.0.0
+  assetPath: Assets/Sakanfar Productions/Folder Organizer/Editor/Tests/SakanfarProductions.FolderOrganizer.Editor.Tests.asmdef
+  uploadId: 990302
